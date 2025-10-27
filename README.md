@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hugh Knight (aka Lunah) 👋</h1>
+<h1 align="center">Hi, I'm Hugh Knight 👋</h1>
 <h3 align="center">Cyber Security Student • IT Support • Developer • STEM Educator</h3>
 
 <p align="center">
