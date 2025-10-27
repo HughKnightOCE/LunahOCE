@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hugh Knight (aka Lunah) 👋</h1>
-<h3 align="center">Cyber Security Student • IT Support • Novice Developer</h3>
+<h3 align="center">Cyber Security Student • IT Support • Intermediate Developer • STEM Educator</h3>
 
 <p align="center">
-  📍 Ballarat, Victoria, Australia • 🎓 Bachelor of Cyber Security • 💻 Passion for building practical tools
+  📍 Ballarat, Victoria, Australia • 🎓 Bachelor of Cyber Security (2nd Year @ Deakin University) • 🎓 Diploma in Engineering (Mechanical and Technical @ Deakin University) • 💻 Passion for building practical tools
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 🚀 About Me
 
-- 🔐 First-year **Cyber Security** student focused on applied security and networks  
+- 🔐 Completed my First-year **Cyber Security** student focused on applied security and networks  
 - 🛠️ Currently improving in **Python** & **C#** through personal projects  
 - ⚙️ Hands-on with troubleshooting, automation, and system building  
 - 🎯 Goal: Gain experience in **IT Support / SOC / Network Security**  
@@ -37,10 +37,19 @@
 ### 📂 Projects (Coming Soon)
 
 | Project | Description | Status |
-|---------|-------------|--------|
-| 🔎 Network Scanner | Python tool to find active hosts on a network | 🚧 In progress |
-| 💾 HDD Keep-Alive | Prevents HDDs from sleeping using file ping | ✅ Ready to upload |
-| 🎧 Live Translator | Converts PC audio to on-screen text overlay | 🚧 In development |
+|----------|-------------|--------|
+| 🔎 Network Scanner | Finds active devices on a network (ARP & ping scan) | 🚧 In progress |
+| 💾 HDD Keep-Alive Tool | Prevents HDDs from sleeping using file ping | ✅ Ready to upload |
+| 🎧 Live Translator | Converts PC audio to on-screen translated text | 🚧 In development |
+| 🗑️ Secure Uninstaller Tool | Locates and removes leftover program files safely | 🚧 Building GUI |
+| ❗ BSOD Log Analyzer | Reads Windows crash logs for quick diagnosis | 🧪 Prototype |
+| 🔐 Password Generator | Generates secure passwords (CLI) | ✅ Uploading soon |
+| 🌐 Port Scanner | Simple TCP port scanner | ✅ Uploading soon |
+| 🎥 Screen Capture Script | Real-time screen & webcam capture tool | ✅ Ready |
+| 🛡️ Ethical Hacking Toolkit | Python-based tools collection | 🚧 Early stage |
+| 🔁 Auto Backup Script | Folder mirroring & backup script | ✅ Uploading soon |
+| 🧹 Windows Cleanup Tool | PowerShell cleanup & optimisation | ✅ Script version |
+
 
 ---
 
