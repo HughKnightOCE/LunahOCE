@@ -1,69 +1,65 @@
-## Hi there 👋
-# Cybersecurity Projects
+<h1 align="center">Hi, I'm Hugh Knight (aka Lunah) 👋</h1>
+<h3 align="center">Cyber Security Student • IT Support • Novice Developer</h3>
 
-## Overview
+<p align="center">
+  📍 Ballarat, Victoria, Australia • 🎓 Bachelor of Cyber Security • 💻 Passion for building practical tools
+</p>
 
-This repository contains a collection of cybersecurity-related projects developed by Hugh Knight. These projects demonstrate a range of skills in areas such as network security, password management, and file integrity verification.
+---
 
-## Projects
+### 🔧 Tech Stack & Tools
 
-### Network Sentinel
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
 
-A Python-based network scanner that identifies active hosts and open ports on a local network.
+---
 
-* **Features:**
-    * Performs ARP scans to discover devices on the network.
-    * Sends ICMP echo requests (pings) to check host availability.
-    * Conducts port scanning to identify open ports and services.
-* **Technologies Used:** Python, Scapy library
-* **Purpose:** To enhance network security assessments by providing a tool for identifying potential vulnerabilities.
+### 🚀 About Me
 
-### Local Password Manager
+- 🔐 First-year **Cyber Security** student focused on applied security and networks  
+- 🛠️ Currently improving in **Python** & **C#** through personal projects  
+- ⚙️ Hands-on with troubleshooting, automation, and system building  
+- 🎯 Goal: Gain experience in **IT Support / SOC / Network Security**  
 
-A Python application for securely storing and retrieving user passwords.
+---
 
-* **Features:**
-    * Stores passwords for various websites and services.
-    * Encrypts sensitive data using the Fernet symmetric encryption scheme.
-    * Protects the encryption key using the PBKDF2HMAC key derivation function.
-    * Provides a command-line interface for adding, viewing, and editing passwords.
-* **Technologies Used:** Python, Fernet, hashlib
-* **Purpose**: To secure login credentials.
+### 📂 Projects (Coming Soon)
 
-### File Integrity Verifier
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🔎 Network Scanner | Python tool to find active hosts on a network | 🚧 In progress |
+| 💾 HDD Keep-Alive | Prevents HDDs from sleeping using file ping | ✅ Ready to upload |
+| 🎧 Live Translator | Converts PC audio to on-screen text overlay | 🚧 In development |
 
-A Python application that scans a directory of files and compares their hashes against a database of known malware hashes.
+---
 
-* **Features:**
-    * Calculates MD5, SHA1, and SHA256 hashes of files.
-    * Compares calculated hashes against a database of known malware hashes.
-    * Reports any matches, indicating potential malware.
-    * Logs errors encountered during file access.
-* **Technologies Used:** Python, hashlib
-* **Purpose:** To detect potentially malicious files by verifying their integrity.
+### 📫 Connect With Me
 
-## Author
+<p>
+  <a href="https://www.linkedin.com/in/hugh-knight-australia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hugh%20Knight-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/HughKnightOCE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HughKnightOCE-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-Hugh Knight
+---
 
-* Email: hugh.knight17@gmail.com
-* LinkedIn: [https://www.linkedin.com/in/hugh-knight-70a289233/](https://www.linkedin.com/in/hugh-knight-70a289233/)
+### 🧠 Fun Fact
+> I don’t just use tech — I experiment with it, break it, reverse engineer it, and build better tools from it. 🔧🔥
 
-## Contributions
+---
 
-Contributions are welcome! If you have any suggestions or would like to contribute to these projects, please feel free to submit a pull request.
-
-<!--
-**LunahOCE/LunahOCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting — check back for new repositories soon!**
